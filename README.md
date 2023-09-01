@@ -1,1 +1,1 @@
-# IDS 706 Data Engineering Mini Project 1
+# IDS 706 Week 1
